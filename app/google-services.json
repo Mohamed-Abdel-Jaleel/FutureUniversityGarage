@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "996046460531",
+    "firebase_url": "https://smart-garage-40619-default-rtdb.firebaseio.com",
+    "project_id": "smart-garage-40619",
+    "storage_bucket": "smart-garage-40619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996046460531:android:397138d74732d09f3cfc06",
+        "android_client_info": {
+          "package_name": "com.cargarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996046460531-came761hpmu06oaehsovl34u1vt7ff93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35Pp8m2lxo6zxAOhcjsJgWSTC95kynyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996046460531-came761hpmu06oaehsovl34u1vt7ff93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996046460531:android:595e6f796c45d2993cfc06",
+        "android_client_info": {
+          "package_name": "com.fuegarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996046460531-came761hpmu06oaehsovl34u1vt7ff93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35Pp8m2lxo6zxAOhcjsJgWSTC95kynyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996046460531-came761hpmu06oaehsovl34u1vt7ff93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
